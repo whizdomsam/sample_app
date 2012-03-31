@@ -1,0 +1,4 @@
+/usr/local/lib/site_ruby/1.8/rubygems/dependency.rb:247:in `to_specs': Could not find rake (>= 0) amongst [] (Gem::LoadError)
+	from /usr/local/lib/site_ruby/1.8/rubygems/dependency.rb:256:in `to_spec'
+	from /usr/local/lib/site_ruby/1.8/rubygems.rb:1208:in `gem'
+	from /usr/bin/rake:18
